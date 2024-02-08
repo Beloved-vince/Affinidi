@@ -1,0 +1,2 @@
+# affinidi
+blockchain stackup campus
